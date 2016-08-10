@@ -2,7 +2,7 @@
 Farmer for your Pokémon Go, you can't get banned!!
 
 # Downlaoding
-1. Go to this link ->  (the size is to large (file=50mb) for here(max=25mb))
+1. Go to this link -> http://www.mediafire.com/download/0hd6gw0bu7ryq5i/PokeFarmerSinfulAndroid.zip (the size is to large (file=50mb) for here(max=25mb))
 2. Download the file
 # Starting the farmer
 1. Open the file with WinRAR
